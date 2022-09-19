@@ -1,0 +1,11 @@
+{
+    "id": "${id}",
+    "version": "${version}",
+    "entry": "${main}",
+    "dependencies": [
+        "ignite"
+    ],
+    "mixins": [
+        "mixins.lobotomize-stuck-villagers.json"
+    ]
+}

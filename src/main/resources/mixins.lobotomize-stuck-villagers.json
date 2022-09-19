@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "xyz.holocons.mc.lobotomizestuckvillagers.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "server": [
+    "VillagerMixin"
+  ]
+}
